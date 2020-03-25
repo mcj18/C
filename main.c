@@ -3,6 +3,7 @@
 #include "print2.h" 
 #include "print3.h"
 #include "print4.h"
+#include "print5.h"
 
 int main()
 {
@@ -11,5 +12,6 @@ int main()
 	print2();
 	print3();
 	print4();
+	print5();
 	return 0;
 }
